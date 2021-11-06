@@ -1,5 +1,6 @@
 # quizzler
 
+<img src = "https://github.com/HM-Anwar/Quiz/blob/main/screenshot/1.JPG" height = 600px>
 A new Flutter project.
 
 ## Getting Started
